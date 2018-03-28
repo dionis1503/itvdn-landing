@@ -1,0 +1,28 @@
+{
+  "name": "itvdn-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionis1503/itvdn-landing.git"
+  },
+  "author": "Den",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dionis1503/itvdn-landing/issues"
+  },
+  "homepage": "https://github.com/dionis1503/itvdn-landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.2.1",
+    "rimraf": "^2.6.2",
+    "spritesmith": "^3.3.0"
+  }
+}
